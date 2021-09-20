@@ -22,7 +22,7 @@
   <a href="https://flutter.dev/">
     <img align="center" height="30" width="40" href ="" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter">
   </a>
-  <a href="https://flutter.dev/">
+  <a href="https://dart.dev/">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart">
   </a>
   <a href="https://developer.android.com/?hl=pt-br">
