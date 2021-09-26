@@ -11,8 +11,8 @@
 
 **Talking about Personal Stuffs:**
 
-- 📱 I'm Mobile Developer
-- 💼 I'm currently working at [Venturus](https://www.venturus.org.br/);
+- 📱 I'm Mobile Developer;
+- 💼 I'm currently working at [Venturus](https://www.venturus.org.br/) as Android Developer;
 - 👨‍🎓 I'm currently technical high school student at [IFSP - Câmpus Campinas](https://portal.cmp.ifsp.edu.br/); 
 - 🌱 I'm currently learning Kotlin and improving Flutter and Android.
  
