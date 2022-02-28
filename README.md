@@ -13,8 +13,8 @@
 
 - 📱 I'm Mobile Developer;
 - 💼 I'm currently working at [Venturus](https://www.venturus.org.br/) as Android Developer;
-- 👨‍🎓 I'm currently technical high school student at [IFSP - Câmpus Campinas](https://portal.cmp.ifsp.edu.br/); 
-- 🌱 I'm currently learning Kotlin and improving Flutter and Android.
+- 🌱 I'm currently learning and improving Flutter and Android with Kotlin.
+- 👨‍🎓 I graduated from technical high school at [IFSP - Câmpus Campinas](https://portal.cmp.ifsp.edu.br/); 
  
  **Languages and Tools:** 
  
@@ -28,12 +28,12 @@
   <a href="https://developer.android.com/?hl=pt-br">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android">
   </a>
+  <a href="https://kotlinlang.org/">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin">
+  </a>
   <a href="#">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C">
-  </a>
-  <a href="https://firebase.google.com/">
-    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase">
   </a>
   <a href="https://www.figma.com/">
     <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma">
