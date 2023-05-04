@@ -14,7 +14,8 @@
 - 📱 I'm Mobile Developer;
 - 💼 I'm currently working at [Venturus](https://www.venturus.org.br/) as Android Developer;
 - 🌱 I'm currently learning and improving Flutter and Android with Kotlin.
-- 👨‍🎓 I graduated from technical high school at [IFSP - Câmpus Campinas](https://portal.cmp.ifsp.edu.br/); 
+- 🌱 I'm studying Technology in Systems Analysis and Development at [UNICAMP](https://www.unicamp.br/unicamp/).
+- 👨‍🎓 I'm graduated on technical high school at [IFSP - Câmpus Campinas](https://portal.cmp.ifsp.edu.br/); 
  
  **Languages and Tools:** 
  
